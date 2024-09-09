@@ -1,1 +1,2 @@
-# V6A
+# Credits
+- [WebRetro](https://github.com/BinBashBanana/webretro)
